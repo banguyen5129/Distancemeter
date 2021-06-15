@@ -1,0 +1,7 @@
+C:\Users\badun\OneDrive - Monash University\TRC3500\Distance Meter\distancemeter\distancemeter.cydsn\distancemeter.cyprj|72c829ec-a6a2-427c-a10a-8fac3dd7f1f1
+F:\PSOC\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d23f76ae-586a-420a-a51c-e1ccc25f85b6
+C:\Users\badun\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|24d657eb-93f6-4e22-ac6b-148c2ab8b02e
+C:\Users\badun\OneDrive\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|36de1c4d-b47f-42aa-a5e7-70308f276c71
+F:\PSOC\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|46097861-bb70-4476-8a7d-45eded4d027c
+F:\PSOC\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b9cf17c9-ffc5-497a-9e78-8bce140090c2
+F:\PSOC\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b60a4990-edcc-4f7e-bc57-69420ba03853

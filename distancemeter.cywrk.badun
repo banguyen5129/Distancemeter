@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>distancemeter</v>
+<v>distancemeter\distancemeter</v>
+<v>distancemeter\distancemeter\TopDesign</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Pins</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Analog</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Clocks</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Interrupts</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\DMA</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\System</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Directives</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Flash Security</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\EEPROM</v>
+<v>distancemeter\distancemeter\Header Files</v>
+<v>distancemeter\distancemeter\Header Files\cyapicallbacks.h</v>
+<v>distancemeter\distancemeter\Source Files</v>
+<v>distancemeter\distancemeter\Source Files\main.c</v>
+<v>distancemeter\distancemeter\Generated_Source</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>distancemeter</v>
+<v>distancemeter\distancemeter</v>
+<v>distancemeter\distancemeter\TopDesign</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Pins</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Analog</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Clocks</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Interrupts</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\DMA</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\System</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Directives</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\Flash Security</v>
+<v>distancemeter\distancemeter\distancemeter.cydwr\EEPROM</v>
+<v>distancemeter\distancemeter\Header Files</v>
+<v>distancemeter\distancemeter\Header Files\cyapicallbacks.h</v>
+<v>distancemeter\distancemeter\Source Files</v>
+<v>distancemeter\distancemeter\Source Files\main.c</v>
+<v>distancemeter\distancemeter\Generated_Source</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\beeperpin</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Clock_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Clock_2</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Comp_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Control_Reg_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Control_Reg_2</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Control_Reg_3</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Count7_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\cy_boot</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\EEPROM_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\isr_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\isr_2</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\isr_3</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\isr_4</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\isr_5</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\isr_6</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Opamp_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\PGA_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_1</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_10</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_11</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_12</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_13</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_14</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_15</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_16</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_17</v>
+<v>distancemeter\distancemeter\Generated_Source\PSoC5\Pin_18</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>distancemeter</v>
+<v>distancemeter\distancemeter</v>
+<v>distancemeter\distancemeter\TopDesign</v>
+<v>distancemeter\distancemeter\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>distancemeter</v>
+<v>distancemeter\distancemeter</v>
+<v>distancemeter\distancemeter\TopDesign</v>
+<v>distancemeter\distancemeter\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>distancemeter</v>
+<v>distancemeter\distancemeter</v>
+<v>distancemeter\distancemeter\CortexM3</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\beeperpin.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_2.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Comp_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Comp_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_2.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_2_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_3.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_3_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Count7_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Count7_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\EEPROM_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_2.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_3.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_4.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_5.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_6.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Opamp_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Opamp_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_10.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_11.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_12.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_13.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_14.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_15.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_16.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_17.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_18.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_19.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_2.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_21.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_22.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_23.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_24.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_25.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_3.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_4.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_5.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_6.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_7.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_8.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_9.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\timer_clock.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_Reset.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_Reset_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_INT.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\VDAC8_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\distancemeter.elf</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\distancemeter.hex</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\distancemeter.map</v>
+<v>distancemeter\distancemeter\distancemeter.gpdsc</v>
+<v>distancemeter\distancemeter\distancemeter.rpt</v>
+<v>distancemeter\distancemeter\distancemeter_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>distancemeter</v>
+<v>distancemeter\distancemeter</v>
+<v>distancemeter\distancemeter\CortexM3</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\beeperpin.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_2.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Comp_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Comp_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_2.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_2_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_3.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_3_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Count7_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Count7_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\EEPROM_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_2.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_3.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_4.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_5.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_6.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Opamp_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Opamp_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\PGA_1_PM.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_10.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_11.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_12.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_13.lst</v>
+<v>distancemeter\distancemeter\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_14.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>distancemeter</v>
+<v>distancemeter\distancemeter</v>
+<v>distancemeter\distancemeter\PSoC 5LP Architecture TRM</v>
+<v>distancemeter\distancemeter\CY8C58LP Family Datasheet</v>
+<v>distancemeter\distancemeter\System Reference Guides</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>distancemeter</v>
+<v>distancemeter\distancemeter</v>
+<v>distancemeter\distancemeter\PSoC 5LP Architecture TRM</v>
+<v>distancemeter\distancemeter\CY8C58LP Family Datasheet</v>
+<v>distancemeter\distancemeter\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\distancemeter.cydsn\distancemeter.cydwr" />
+<name v=".\distancemeter.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\distancemeter.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1501, 612" SelectedTabbedMdiWindow="d93544df-443b-4dc6-98e2-005bcbc5c68d"><DocumentWindow Key="C:\Users\badun\OneDrive - Monash University\TRC3500\Distance Meter\distancemeter\distancemeter.cydsn\distancemeter.cydwr" Guid="b78bd293-b0bf-474f-9b72-7eb71e23a4bb" /><DocumentWindow Key="C:\Users\badun\OneDrive - Monash University\TRC3500\Distance Meter\distancemeter\distancemeter.cydsn\TopDesign\TopDesign.cysch" Guid="d93544df-443b-4dc6-98e2-005bcbc5c68d" /><DocumentWindow Key="C:\Users\badun\OneDrive - Monash University\TRC3500\Distance Meter\distancemeter\distancemeter.cydsn\main.c" Guid="b4117953-a329-4d32-824d-b70fee267ec2" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="b37e8725-1aaf-4cd1-8cd9-39120b42599f" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
